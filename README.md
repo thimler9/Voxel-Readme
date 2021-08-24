@@ -10,4 +10,4 @@ Below are some screenshots created by the system.
 
 ![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator1.png?raw=true)
 ![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator2.png?raw=true)
-![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator3.png?raw=true)
+![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator3.PNG?raw=true)
