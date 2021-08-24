@@ -6,3 +6,8 @@ The project focuses on using Simplex Noise alongside the Marching Cube (https://
 The current plan for the project is to implement a detailed biome system. A naive approach is currently implemented based on factors like temperature, but flora and fauna have not been added yet. So, the hope would be to take account of multiple factors and generate flora and fauna based on those factors.
 
 Below are some screenshots created by the system.
+
+
+![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator1.png?raw=true)
+![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator2.png?raw=true)
+![alt text](https://github.com/thimler9/Voxel-Readme/blob/main/terrainGenerator3.png?raw=true)
